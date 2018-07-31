@@ -10,7 +10,7 @@
 *.orig
 
 #maven ignore
-targer/
+target/
 
 #eclipse ignore
 .settings/
